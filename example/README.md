@@ -1,1 +1,1 @@
-```go build && ./example; export first__second__third="overridden-value" && ./example
+go build && ./example; export first__second__third="overridden-value" && ./example
