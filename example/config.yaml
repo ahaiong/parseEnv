@@ -1,0 +1,7 @@
+first:
+    second:
+        third: "initial-value"
+
+another-first:
+    another-second:
+        third: "another-initial-value"
